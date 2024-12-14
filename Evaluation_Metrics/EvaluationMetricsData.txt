@@ -1,0 +1,47 @@
+Resnet50_V1:
+Validation Accuracy: 79.16%, F1 Score: 0.7316, Recall: 0.7916
+Evaluation results for Sagittal T1: F1 Score: 0.7315980982540718, Recall: 0.7915714648387916
+Validation Accuracy: 79.55%, F1 Score: 0.7910, Recall: 0.7955
+Evaluation results for Axial T2: F1 Score: 0.7909956685072119, Recall: 0.795472287275566
+Validation Accuracy: 87.13%, F1 Score: 0.8182, Recall: 0.8713
+Evaluation results for Sagittal T2: F1 Score: 0.8182021813634308, Recall: 0.8712820512820513
+
+Inception_V3:
+Validation Accuracy: 79.06%, F1 Score: 0.7326, Recall: 0.7906
+Evaluation results for Sagittal T1: F1 Score: 0.7326338581188209, Recall: 0.7905559786747905
+Validation Accuracy: 79.37%, F1 Score: 0.7844, Recall: 0.7937
+Evaluation results for Axial T2: F1 Score: 0.7844409667453904, Recall: 0.7936507936507936
+Validation Accuracy: 87.23%, F1 Score: 0.8140, Recall: 0.8723
+Evaluation results for Sagittal T2: F1 Score: 0.8140311943994945, Recall: 0.8723076923076923
+
+DenseNet121:
+Validation Accuracy: 79.13%, F1 Score: 0.7287, Recall: 0.7913
+Evaluation results for Sagittal T1: F1 Score: 0.7287091093453394, Recall: 0.7913175932977913
+Validation Accuracy: 79.65%, F1 Score: 0.7892, Recall: 0.7965
+Evaluation results for Axial T2: F1 Score: 0.7891882324615823, Recall: 0.7965131407754359
+Validation Accuracy: 87.33%, F1 Score: 0.8201, Recall: 0.8733
+Evaluation results for Sagittal T2: F1 Score: 0.8201249645171498, Recall: 0.8733333333333333
+
+MobileNetV3:
+Validation Accuracy: 78.27%, F1 Score: 0.6934, Recall: 0.7827
+Evaluation results for Sagittal T1: F1 Score: 0.6934320428311694, Recall: 0.7826859609037827
+Validation Accuracy: 78.09%, F1 Score: 0.7687, Recall: 0.7809
+Evaluation results for Axial T2: F1 Score: 0.7687376946738663, Recall: 0.7809003382773875
+Validation Accuracy: 87.13%, F1 Score: 0.8114, Recall: 0.8713
+Evaluation results for Sagittal T2: F1 Score: 0.8113500713226665, Recall: 0.8712820512820513
+
+EfficientNet:
+Validation Accuracy: 78.29%, F1 Score: 0.6905, Recall: 0.7829
+Evaluation results for Sagittal T1: F1 Score: 0.6904798468589265, Recall: 0.7829398324447829
+Validation Accuracy: 71.19%, F1 Score: 0.6375, Recall: 0.7119
+Evaluation results for Axial T2: F1 Score: 0.637499956738177, Recall: 0.711943793911007
+Validation Accuracy: 86.77%, F1 Score: 0.8119, Recall: 0.8677
+Evaluation results for Sagittal T2: F1 Score: 0.8119029606016028, Recall: 0.8676923076923077
+
+VGG16:
+Validation Accuracy: 78.65%, F1 Score: 0.7190, Recall: 0.7865
+Evaluation results for Sagittal T1: F1 Score: 0.7190165317330837, Recall: 0.7864940340187865
+Validation Accuracy: 79.81%, F1 Score: 0.7930, Recall: 0.7981
+Evaluation results for Axial T2: F1 Score: 0.7930447903614803, Recall: 0.7980744210252407
+Validation Accuracy: 87.13%, F1 Score: 0.8114, Recall: 0.8713
+Evaluation results for Sagittal T2: F1 Score: 0.8113500713226665, Recall: 0.8712820512820513
